@@ -82,7 +82,7 @@ Below are a couple of examples of typical comments made on the Header details in
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_header_typical_comments1.jpg" alt="Header comments">
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/imagesTemplate_review_header_typical_comments2.jpg" alt="Header comments">
+<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_header_typical_comments2.jpg" alt="Header comments">
 
 ## 4.5 The Data tab
 The Data tab displays the main body of the template. This part is quite long, so here are some useful hints:
@@ -128,3 +128,20 @@ Below are some examples of overall comments made in other template reviews:
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_missing_elements_comments2.jpg" alt="Missing elements">
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_who_else_comment.jpg" alt="Who else">
+
+The ***Overall Recommendation*** is mandatory, and this is the only part you must complete if you want to submit your review. You must select one of these options:
+**Accept
+Minor revision
+Major revision
+Reject
+Abstain**
+
+The screenshot below explains how these options are intended to be used. You can also display this information by clicking on the information icon next to the Overall Recommendation field.
+
+<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_recommendation_info.jpg" alt="Recommendation information">
+
+# 5. The Dashboard
+If you want to go back to your review later or you have selected to accept a review but complete it later, you can log into the Clinical Knowledge Manager (http://www.clinicalmodels.org.uk/ckm/) and select the Dashboard tab.
+By default, the top left hand quadrant displays any outstanding reviews. Click on the line displaying your review and select Start your review now.
+
+<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_dashboard_start_review.jpg" alt="Dashboard">
