@@ -29,14 +29,14 @@ Don’t write things like ‘Yes’, ‘Ok’ or ‘Agree’ or ‘I like it’ 
 
 The exception to this rule is if we ask a Special Question. For these any answer will be appreciated.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_special_question.jpg" alt="Special question">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_special_question.jpg" alt="Special question">
 
 You can add as many or as few comments as you like. All comments are entirely optional, and there is only one bit we need you to complete before you submit your review, and that is at the very end of the process when we ask you for your overall recommendation. I’ll say a bit more about this at the end of this document.
 
 ## 3. Invitation
 You will have received an email invitation to review a template. In the body of the email there will be four choices:
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_invitation.jpg" alt="Invitation choices">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_invitation.jpg" alt="Invitation choices">
 
 If you are ready to review the template you should select ***‘Accept and review template now’***. This will take you to the relevant page for this review in Clinical Knowledge Manager (see Section 4).
 
@@ -50,11 +50,11 @@ If you don’t want to review this template at all, you can select ***‘Decline
 ### 4.1 Overview
 When you have chosen to perform the review now from your invitation email, you will be presented with the Clinical Knowledge Manager login screen. Enter your login name and password. Your login name is usually in the format ***firstname.surname*** and was allocated when you first signed up to Clinical Knowledge Manager.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_login.jpg" alt="Login">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_login.jpg" alt="Login">
 
 Once you have signed in, the Invitation tab of the template review screen will be displayed:
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_invite_tab_annotated.jpg" alt="Invitation tab">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_invite_tab_annotated.jpg" alt="Invitation tab">
 
 You now have several choices:
 1. Display a simple view of the template to get an overview of the content.
@@ -65,29 +65,29 @@ You now have several choices:
 ### 4.2 Simple view
 Before you start the review process it may be useful to switch to the simple view of the template (see (1) in the screenshot above), just to see a more compact view of the content. This will be displayed in a separate tab (see (1) in the screenshot below) to allow you to toggle back and forth between the simple view and the review screen.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_simple_view_annotated.jpg" alt="Simple view">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_simple_view_annotated.jpg" alt="Simple view">
 
 As well as looking at the simple view itself, you can also switch to a printable view (2) or a mindmap view (3). Either of these may be helpful to understand and visualise the content of the template.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_print_plus_mindmap.jpg" alt="Print and mindmap views">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_print_plus_mindmap.jpg" alt="Print and mindmap views">
 
 ### 4.3 Starting the review
 To start the review, just toggle back to the review screen and click on Next at the bottom of the screen or select the Header tab.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_toggle_simple_review.jpg" alt="Toggle tabs">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_toggle_simple_review.jpg" alt="Toggle tabs">
 
 ### 4.4 The Header tab
 The Header tab displays the template name and the purpose of the template. You can add comments on both by simply typing into the box entitled ‘Your Comment’.
 
 When you have finished with your comments or if you have no comments on the Header, click on Next or select the Data tab to move to the main body of the template.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_header_tab.jpg" alt="Header tab">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_header_tab.jpg" alt="Header tab">
 
 Below are a couple of examples of typical comments made on the Header details in other template reviews:
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_header_typical_comments1.jpg" alt="Header comments">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_header_typical_comments1.jpg" alt="Header comments">
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_header_typical_comments2.jpg" alt="Header comments">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_header_typical_comments2.jpg" alt="Header comments">
 
 ### 4.5 The Data tab
 The Data tab displays the main body of the template. This part is quite long, so here are some useful hints:
@@ -98,10 +98,10 @@ The Data tab displays the main body of the template. This part is quite long, so
   4. The Comments box where you can add your comments, suggestions or questions.
 - Some of the lines just reflect the underlying structure and do not actually contain any clinical data as such. Examples of these are:
 
-  <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_observation.jpg" alt="Observation">
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_evaluation.jpg" alt="Evaluation">
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_section.jpg" alt="Section">
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_cluster.jpg" alt="Cluster">
+  <img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_observation.jpg" alt="Observation">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_evaluation.jpg" alt="Evaluation">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_section.jpg" alt="Section">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_cluster.jpg" alt="Cluster">
 
   As a rule there is no need to comment on these, unless you feel that the name is misleading or problematic in any way.
 
@@ -111,11 +111,11 @@ The Data tab displays the main body of the template. This part is quite long, so
 
 Below are some examples of typical comments on other template reviews:
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_data_typical_comments1.jpg" alt="Data tab comments">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_data_typical_comments1.jpg" alt="Data tab comments">
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_data_typical_comments2.jpg" alt="Data tab comments">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_data_typical_comments2.jpg" alt="Data tab comments">
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_data_typical_comments3.jpg" alt="Data tab comments">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_data_typical_comments3.jpg" alt="Data tab comments">
 
 When you have reviewed the whole body of the template and added your comments, questions or suggestions, click on ***Next*** or select the Overall comments tab to move to the final step of the review. You can also interrupt your review and come back to it at any time by using the ***Save and close*** option at the bottom of the view.
 
@@ -124,15 +124,15 @@ The final part of the review allows you to make some more general comments about
 
 As with the previous section, comments are optional, and you don’t have to add anything.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_overall_comments_.jpg" alt="Overall comments">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_overall_comments_.jpg" alt="Overall comments">
 
 Below are some examples of overall comments made in other template reviews:
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_missing_elements_comments1.jpg" alt="Missing elements">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_missing_elements_comments1.jpg" alt="Missing elements">
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_missing_elements_comments2.jpg" alt="Missing elements">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_missing_elements_comments2.jpg" alt="Missing elements">
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_who_else_comment.jpg" alt="Who else">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_who_else_comment.jpg" alt="Who else">
 
 The ***Overall Recommendation*** is mandatory, and this is the only part you must complete if you want to submit your review. You must select one of these options:
 **Accept
@@ -143,10 +143,10 @@ Abstain**
 
 The screenshot below explains how these options are intended to be used. You can also display this information by clicking on the information icon next to the Overall Recommendation field.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_recommendation_info.jpg" alt="Recommendation information">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_recommendation_info.jpg" alt="Recommendation information">
 
 ## 5. The Dashboard
 If you want to go back to your review later or you have selected to accept a review but complete it later, you can log into the Clinical Knowledge Manager (http://www.clinicalmodels.org.uk/ckm/) and select the Dashboard tab.
 By default, the top left hand quadrant displays any outstanding reviews. Click on the line displaying your review and select Start your review now.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_dashboard_start_review.jpg" alt="Dashboard">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/Template_review_dashboard_start_review.jpg" alt="Dashboard">

@@ -8,19 +8,19 @@ Access Clinical Knowledge Manager via the appropriate link. The International Cl
 
 Click the Sign up button in the top right hand corner to display the Sign up screen
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/CKM_signup_Initial_signup_screen.png" alt="Sign up screen">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/CKM_signup_Initial_signup_screen.png" alt="Sign up screen">
 
 Fill in the required details and confirm that you want to sign up by clicking the Sign up button at the bottom. The confirmation screen will be displayed, including a message that you need to activate your account.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/CKM_signup_Activate_account_message.png" alt="Activate account">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/CKM_signup_Activate_account_message.png" alt="Activate account">
 
 Find the activation email in your email client and select to activate your account from inside the email. This will re-open Clinical Knowledge Manager and confirm that your account is now activated.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/CKM_signup_account_activated_message.png" alt="Account activated">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/CKM_signup_account_activated_message.png" alt="Account activated">
 
 Sign into Clinical Knowledge Manager using either your user name (in the format firstname.surname) or the email address you provided when you signed up. You will be prompted whether you want to become a reviewer.
 
-<img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/CKM_signup_become_reviewer_message.png" alt="Become reviewer">
+<img src="https://github.com/freshehrteam/CKM-Documentation/raw/master/docs/images/CKM_signup_become_reviewer_message.png" alt="Become reviewer">
 
 Click Yes to confirm that you want to become a reviewer and select the appropriate Professional areas. You can become a reviewer without selecting any professional area, but you are less likely to receive invitations to review archetypes or templates relevant to your professional experience.
 
