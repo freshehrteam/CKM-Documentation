@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## **Clinical Knowledge Manager Template Review**
+## **CKM Template Review**
 
 ## 1. Introduction
 This document provides some brief guidance notes on how to carry out a template review in the Clinical Knowledge Manager tool.
