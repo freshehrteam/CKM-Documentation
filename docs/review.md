@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # **Clinical Knowledge Manager Template Review**
 
 # 1. Introduction
