@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-# **Clinical Knowledge Manager Template Review**
+## **Clinical Knowledge Manager Template Review**
 
-# 1. Introduction
+## 1. Introduction
 This document provides some brief guidance notes on how to carry out a template review in the Clinical Knowledge Manager tool.
 
-# 2. General Information
+## 2. General Information
 One of the key points to be aware of at this stage is that you will be reviewing a dataset rather than finished data entry form or report. The dataset is represented in such a way that it looks like a form, but the user interface for an actual form or the format of an actual report based on this dataset may look quite different. So, what does that mean for you as a reviewer?
 
 - The order in which individual data items are displayed may not feel right. This can be due to the way in which the underlying dataset artefacts are structured, and the order can be changed later in the user interface.
@@ -33,7 +33,7 @@ The exception to this rule is if we ask a Special Question. For these any answer
 
 You can add as many or as few comments as you like. All comments are entirely optional, and there is only one bit we need you to complete before you submit your review, and that is at the very end of the process when we ask you for your overall recommendation. I’ll say a bit more about this at the end of this document.
 
-# 3. Invitation
+## 3. Invitation
 You will have received an email invitation to review a template. In the body of the email there will be four choices:
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_invitation.jpg" alt="Invitation choices">
@@ -46,8 +46,8 @@ If you don’t want to be involved in this review round, you can select ***‘De
 
 If you don’t want to review this template at all, you can select ***‘Decline all invitations for this template’***. You may get an invitation in the future to participate in a review for another template or archetype.
 
-# 4. Review template now
-## 4.1 Overview
+## 4. Review template now
+### 4.1 Overview
 When you have chosen to perform the review now from your invitation email, you will be presented with the Clinical Knowledge Manager login screen. Enter your login name and password. Your login name is usually in the format ***firstname.surname*** and was allocated when you first signed up to Clinical Knowledge Manager.
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_login.jpg" alt="Login">
@@ -62,7 +62,7 @@ You now have several choices:
 3. Use the tabs at the top to navigate through the different parts of the review.
 4. The buttons at the bottom are available at any time during the review process and can be used to ***save and continue***, ***save and close*** or ***save and submit the review***. Note that the last one should only be used when you have completed the review. It is advisable to ***save and continue*** at regular intervals.
 
-## 4.2 Simple view
+### 4.2 Simple view
 Before you start the review process it may be useful to switch to the simple view of the template (see (1) in the screenshot above), just to see a more compact view of the content. This will be displayed in a separate tab (see (1) in the screenshot below) to allow you to toggle back and forth between the simple view and the review screen.
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_simple_view_annotated.jpg" alt="Simple view">
@@ -71,12 +71,12 @@ As well as looking at the simple view itself, you can also switch to a printable
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_print_plus_mindmap.jpg" alt="Print and mindmap views">
 
-## 4.3 Starting the review
+### 4.3 Starting the review
 To start the review, just toggle back to the review screen and click on Next at the bottom of the screen or select the Header tab.
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_toggle_simple_review.jpg" alt="Toggle tabs">
 
-## 4.4 The Header tab
+### 4.4 The Header tab
 The Header tab displays the template name and the purpose of the template. You can add comments on both by simply typing into the box entitled ‘Your Comment’.
 
 When you have finished with your comments or if you have no comments on the Header, click on Next or select the Data tab to move to the main body of the template.
@@ -89,7 +89,7 @@ Below are a couple of examples of typical comments made on the Header details in
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_header_typical_comments2.jpg" alt="Header comments">
 
-## 4.5 The Data tab
+### 4.5 The Data tab
 The Data tab displays the main body of the template. This part is quite long, so here are some useful hints:
 - The body of the template has four columns:
   1. The name of the data point (e.g. *Location, Date injury occurred, Pattern*).
@@ -119,7 +119,7 @@ Below are some examples of typical comments on other template reviews:
 
 When you have reviewed the whole body of the template and added your comments, questions or suggestions, click on ***Next*** or select the Overall comments tab to move to the final step of the review. You can also interrupt your review and come back to it at any time by using the ***Save and close*** option at the bottom of the view.
 
-## 4.6 The Overall Comments tab
+### 4.6 The Overall Comments tab
 The final part of the review allows you to make some more general comments about the template and complete the overall recommendation.
 
 As with the previous section, comments are optional, and you don’t have to add anything.
@@ -145,7 +145,7 @@ The screenshot below explains how these options are intended to be used. You can
 
 <img src="https://github.com/freshehrteam/CKM-Review/raw/master/docs/images/Template_review_recommendation_info.jpg" alt="Recommendation information">
 
-# 5. The Dashboard
+## 5. The Dashboard
 If you want to go back to your review later or you have selected to accept a review but complete it later, you can log into the Clinical Knowledge Manager (http://www.clinicalmodels.org.uk/ckm/) and select the Dashboard tab.
 By default, the top left hand quadrant displays any outstanding reviews. Click on the line displaying your review and select Start your review now.
 
